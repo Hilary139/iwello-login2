@@ -1,0 +1,140 @@
+body{
+    padding: 0;
+    background: whitesmoke;
+    text-align: center;
+}
+
+*{
+    margin: 0;
+}
+
+html{
+    overflow-x: none;
+}
+
+/*logo here*/
+.logo{
+    text-align: center;
+    font-size: large;
+    margin-top: 20px;
+    background: whitesmoke;
+}
+
+/* header */
+.wrapper{
+    background: white;
+    padding: 20px;
+
+}
+
+h1{
+    font-size: 30px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+p{
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+.date{
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+.btn1{
+    width: 300px;
+    height: 40px;
+    background: rgb(226, 241, 15);
+    color: rgb(29, 22, 22);
+    margin-bottom: 20px;
+}
+a{
+    text-decoration: none;
+    color: rgb(5, 5, 5);
+}
+
+a:hover{
+    color: rgb(105, 88, 88);
+}
+
+/*timer*/
+.timer{
+    font-size: 30px;
+    color: teal;
+    margin-bottom: 10px;
+}
+
+/*testimonials*/
+
+.test{
+    background: rgb(11, 11, 27);
+    color: white;
+}
+.p-head{
+    text-transform: capitalize;
+    font-size: 18px;
+    text-decoration: underline;
+
+}
+
+/*ender*/
+.ender{
+    background: white;
+    color: black;
+}
+
+.end{
+    padding: 10px;
+    font-size: 19px;
+}
+
+.content{
+    padding: 20px;
+}
+
+.p-test{
+    font-size: 15px;
+    text-transform: capitalize;
+
+}
+
+.p-name{
+    font-size: 18px;
+}
+
+
+/*footer*/
+.footer{
+    padding: 10px;
+    margin-top: 20px;
+    background:rgb(11, 11, 27) ;
+}
+
+.p-footer{
+    padding: 5px;
+    margin-bottom: -15px;
+}
+.so{
+    color: white;
+}
+ul li{
+    text-align: center;
+    justify-content: center;
+    list-style: none;
+    display: inline;
+    padding: 5px;
+}
+
+ul{
+    text-align: center;
+    justify-content: center;
+    display: inline;
+}
+
+li{
+    text-align: center;
+    justify-content: center;
+    display: inline;
+}
