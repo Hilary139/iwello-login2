@@ -1,0 +1,123 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+html{
+    overflow-x: hidden;
+}
+
+body{
+    background: white;
+    text-align: center;
+}
+
+/* index page style*/
+/* this place covers the content on the index page*/
+.content{
+    padding: 20px;
+    font-size: 16px;
+    background: whitesmoke;
+    box-shadow: 30px 30px 30px #3333;
+    width: 300px;
+    margin: 8px auto;
+    margin-top: 20px;
+}
+
+.cont-para{
+font-size: 17px;
+padding: 10px;
+}
+
+.btn{
+    color: white;
+    background: rgb(105, 10, 182);
+    width: 200px;
+    height: 40px;
+    border-radius: 20px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+
+/* sign up page style*/
+
+
+.btn1{
+    color: white;
+    background: rgb(105, 10, 182);
+    width: 200px;
+    height: 40px;
+    border-radius: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+.h-sign{
+    font-size: 20px;
+}
+
+
+/* inputs for all pages*/
+.wrapper{
+    padding: 20px;
+}
+
+input{
+    width: 250px;
+    height: 30px;
+    margin-top: 20px;
+    border-radius: 20px;
+    color: black;
+    background: rgb(211, 209, 206);
+    box-shadow: 5px 10px 10px rgba(7, 7, 7, 0.2);
+    border-style: solid;
+    
+
+}
+
+::-webkit-input-placeholder{
+    margin-left: 30px;
+}
+/*options , label and select on all pages*/
+
+
+select{
+    width: 250px;
+    height: 30px;
+    margin-top: 20px;
+    border-radius: 20px;
+    color: black;
+    background: rgb(211, 209, 206);
+    box-shadow: 5px 10px 10px rgba(7, 7, 7, 0.2);
+    border-style: solid;
+
+}
+
+option{
+    border-radius: 20px;
+    
+
+}
+
+p{
+    font-size: 12px;
+    margin-top: 20px;
+    margin-bottom: -20px;
+}
+
+
+.h-import{
+    margin-top: 30px;
+    font-size: 20px;
+}
